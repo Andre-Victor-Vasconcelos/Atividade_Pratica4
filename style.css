@@ -395,4 +395,35 @@ select {
     left: 5px;
 
 }
+@media (max-width: 1281px) {
 
+    .antiga_lateral{
+        display: none;
+    }
+
+
+    h2{
+        color: blueviolet;
+    }
+    
+    .cabecalho{
+        margin-top: 400px;
+    }
+
+ img{
+    width: 500px;
+    
+
+}
+
+
+
+}
+
+@media (min-width: 1281px) {
+
+    .nova_lateral{
+        display: none;
+    }
+
+}
