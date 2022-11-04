@@ -199,6 +199,19 @@ body{
     display: inline-block;
 }
 
+#androidok{
+    width: 333px;
+}
+
+#cordelok{
+    width: 333px;
+}
+ #xok{
+        width: 333px;
+  
+ }
+
+
 .foto2 {
     background-color:  rgb(245, 247, 248);
     width: 333.33px;
@@ -261,7 +274,7 @@ body{
     height: 15px;
     background-color: rgb(208, 210, 210);
     position: relative;
-    top: 1580px;
+    top: 1590px;
     left: 215px;
 
 }
@@ -401,24 +414,113 @@ select {
         display: none;
     }
 
-
-    h2{
-        color: blueviolet;
-    }
     
     .cabecalho{
         margin-top: 400px;
     }
 
- img{
+
+.projetos{
+margin-top: 800px;
+top: 2000px;
+
+
+}
+
+.quanto_cobro {
+    top: 3020px;
+
+
+}
+
+.tabela_preco
+
+{
+    top: 3040px;
+}
+
+.projeto1{
+    display: inline-block;
+}
+
+.projeto2{
+    margin-top: 1px;
+    top: 51px;
+    left: 505px;
+    position: absolute;
     width: 500px;
-    
+
+}
+
+.projeto3{
+    margin-top: 1px;
+    top: 800px;
+    left: 669px;
+    position: absolute;
 
 }
 
 
+.texto1>h2{
+width: 500px;
+right: 50px;
+margin-top: 130px;
 
 }
+.texto1>p{
+    width: 500px;
+    }
+
+    .texto2>h2{
+        width: 500px;
+        right: 50px;
+        margin-top: 130px;
+        }
+
+        }
+        .texto2>p{
+            width: 500px;
+            }
+        
+            #androidok{
+                width: 500px;
+            }
+
+            #cordelok{
+                width: 500px;
+            }
+
+            #xok{
+                width: 500px;
+                margin-top: 195px;
+                margin-left: -670px;
+
+}
+
+         .texto3>h2{
+            width: 500px;
+            right: 50px;
+            margin-top: 322px;
+            margin-left: -670px;
+            }
+            .texto3>p{
+                width: 500px;
+                margin-left: -668px;
+                margin-top: 2px;
+                }
+
+
+                .separa3{
+                    width: 1000px;
+                    height: 15px;
+                    background-color: rgb(208, 210, 210);
+                    position: relative;
+                    top: 3000px;
+                    left: 215px;
+                
+                }
+
+
 
 @media (min-width: 1281px) {
 
