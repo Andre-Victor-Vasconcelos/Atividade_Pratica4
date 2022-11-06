@@ -206,10 +206,6 @@ body{
 #cordelok{
     width: 333px;
 }
- #xok{
-        width: 333px;
-  
- }
 
 
 .foto2 {
@@ -263,8 +259,8 @@ body{
 
 .projeto3{
     margin-top: 1px;
-    top: 51px;
-    left: 669px;
+    top: 200px;
+    left: 1500px;
     position: absolute;
 
 }
@@ -290,7 +286,7 @@ position: relative;
 
     width: 1000px;
     height: 500px;
-    top: 1613px;
+    top: 1800px;
     left: 220px;
     position: relative;
 }
@@ -465,6 +461,7 @@ top: 2000px;
 width: 500px;
 right: 50px;
 margin-top: 130px;
+text-align: center;
 
 }
 .texto1>p{
@@ -475,9 +472,10 @@ margin-top: 130px;
         width: 500px;
         right: 50px;
         margin-top: 130px;
+        text-align: center;
         }
 
-        }
+      
         .texto2>p{
             width: 500px;
             }
@@ -502,6 +500,7 @@ margin-top: 130px;
             right: 50px;
             margin-top: 322px;
             margin-left: -670px;
+            text-align: center;
             }
             .texto3>p{
                 width: 500px;
@@ -520,12 +519,156 @@ margin-top: 130px;
                 
                 }
 
+                .esconde_lat{
+                    position:fixed; background-color: rgb(245, 247, 248);
+                    width: 150px;
+                    height: 500px;
+                    margin: 10px;
+                    margin-left: 27px; right: 1185px; top: 0px; left: 110px;
+                    display: none;
+                    
+                    }
 
+
+            }
+            
+            
 
 @media (min-width: 1281px) {
 
     .nova_lateral{
         display: none;
     }
+    .projetos{
+        background-color: rgb(245, 247, 248);
+        position: relative;
+        top: 1560px;
+        left: 215px;
+    }
+    
+    .foto1 {
+        background-color:  rgb(245, 247, 248);
+        width: 333.33px;
+        height: 250px;
+        margin-top: 25px;
+    }
+    
+    .texto1>h2{
+        background-color: rgb(245, 247, 248);
+        width: 333.33px;
+        height: 100px;
+        margin-top: 0;
+        text-align: center;
+        
+    }
+    .texto1>p{
+        background-color: rgb(255, 255, 255);
+        width: 333.33px;
+        height: 500px;
+       
+    }
+    
+    .projeto1{
+        display: inline-block;
+    }
+    
+    #androidok{
+        width: 333px;
+    }
+    
+    #cordelok{
+        width: 333px;
+    }
+    
+    #xok{
+        width: 333px;
+        margin-left: -830px;
+        margin-top: -150px;
+        
+    }
+    
+    .foto2 {
+        background-color:  rgb(245, 247, 248);
+        width: 333.33px;
+        height: 250px;
+     
+    }
+    
+    .texto2>h2{
+        background-color: rgb(245, 247, 248);
+        width: 333.33px;
+        height: 100px;
+        
+    }
+    .texto2>p{
+        background-color: rgb(255, 255, 255);
+        width: 333.33px;
+        height: 500px;
+       
+    }
+    
+    .projeto2{
+        margin-top: 1px;
+        top: 51px;
+        left: 335px;
+        position: absolute;
+    
+    }
+    
+    
+    .foto3 {
+        background-color:  rgb(245, 247, 248);
+        width: 333.33px;
+        height: 250px;
+     
+    }
+    
+    .texto3>h2{
+        background-color: rgb(245, 247, 248);
+        width: 333.33px;
+        height: 100px;
+        margin-top: -150px;
+        margin-left: -830px;
+        text-align: center;
+        
+    }
+    .texto3>p{
+        background-color: rgb(255, 255, 255);
+        width: 333.33px;
+        height: 500px;
+        margin-left: -830px;
+        margin-top: -50px;
+
+       
+    }
+    
+    .projeto3{
+        margin-top: 1px;
+        top: 200px;
+        left: 1500px;
+        position: absolute;
+    
+    }
+    
+    .separa3{
+        width: 1000px;
+        height: 15px;
+        background-color: rgb(208, 210, 210);
+        position: relative;
+        top: 1590px;
+        left: 215px;
+    
+    }
+
+.tabela_preco
+
+{
+    top: 1610px;
+}
+
+
+
+
+
 
 }
