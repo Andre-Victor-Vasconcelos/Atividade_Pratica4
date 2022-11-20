@@ -11,13 +11,15 @@
 
 body{
     background-color: rgb(245, 247, 248);
+
 }
 
 .container{
     width: 80vw;
     height: 2000px;
     background-color: rgb(245, 247, 248);
-    margin: 0 auto;
+    margin: auto 0 auto 0;
+
 
 }
 
@@ -679,8 +681,49 @@ text-align: center;
     top: 1610px;
 }
 
+.link_lateral>#link_sobre{
+    position: relative;
+    top: -211px;
+    left: 37px;
+    margin: 15px;
+    padding: 15px;
+    background-color: white;
+    color: rgb(48, 48, 48);
+    font-family: 'Montserrat', sans-serif;}
+    
+    .link_lateral>#link_projetos{
+        position: relative;
+        top: -245px;
+        left: 37px;
+        margin: 15px;
+        padding: 15px;
+        background-color: white;
+        color: rgb(48, 48, 48);
+        font-family: 'Montserrat', sans-serif;}
 
+        .link_lateral>#link_preco{
+            position: relative;
+            top: -279px;
+            left: 37px;
+            margin: 15px;
+            padding: 15px;
+            background-color: white;
+            color: rgb(48, 48, 48);
+            font-family: 'Montserrat', sans-serif;}
+    
+            .link_lateral>#link_contato{
+                position: relative;
+                top: -312px;
+                left: 37px;
+                margin: 15px;
+                padding: 15px;
+                background-color: white;
+                color: rgb(48, 48, 48);
+                font-family: 'Montserrat', sans-serif;}
 
+    .link_lateral_novo{
+        display: none;
+    }
 
 
 
